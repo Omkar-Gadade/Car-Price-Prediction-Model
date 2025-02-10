@@ -77,9 +77,12 @@ The model's performance was evaluated using:
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the Jupyter Notebook or Python script to train the model:
+3. Convert the Jupyter Notebook then run the Python script to train the model:
    ```bash
-   python train_model.py
+   jupyter nbconvert --to script Car_Regression.ipynb
+   ```
+   ```bash
+   python Car_Regression.py
    ```
 
 
