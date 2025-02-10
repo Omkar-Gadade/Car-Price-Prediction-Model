@@ -68,8 +68,8 @@ The model's performance was evaluated using:
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Omkar-Gadade/car-regression.git
-   cd car-regression
+   git clone https://github.com/Omkar-Gadade/Car-Price-Prediction-Model.git
+   cd Car-Price-Prediction-Model
    ```
 2. Install dependencies:
    ```bash
